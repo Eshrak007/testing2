@@ -2,9 +2,9 @@
 
 ## Usage
 
-- ** please don't take it seriouly: ** this is just a practice purpose 
-- ** dash for what: ** for un order-list
-- ** asterics for what: ** for making text bold.
+-  __please don't take it seriouly:__this is just a practice purpose 
+-  __dash for what:__ for un order-list
+-  __asterics for what:__for making text bold.
 
 Thanks for your Contribution:
 
